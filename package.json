@@ -24,10 +24,10 @@
     "name": "ROAR"
   },
   "repository": {
-    "url": "https://github.com/ROAR11/X1.0.git"
+    "url": "https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/ROAR11/X1.0/issues"
+    "url": "https://github.com/Nurutomo/wabot-aq/issue"
   },
   "license": "GPL3",
   "dependencies": {
